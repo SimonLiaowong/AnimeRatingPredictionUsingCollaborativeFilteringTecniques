@@ -1,1 +1,1 @@
-# AnimeRatingPredictionUsingCollaborativeFilteringTecniques
+# Anime Rating Prediction
