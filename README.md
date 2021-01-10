@@ -1,6 +1,7 @@
 # Anime Rating Prediction
 
-##Abstrct
+## Abstrct
+
 The goal of this project is to predict Anime ratings and create a recommendation system for users. In
 our midterm project, we learned multiple collaborative filtering techniques from the Netflix Prize
 competition. In this project, we applied the techniques like Matrix Factorization or Neighborhood
