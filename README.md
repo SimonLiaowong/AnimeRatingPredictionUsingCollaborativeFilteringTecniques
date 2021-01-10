@@ -10,4 +10,5 @@ different models in Python with Surprise and R with RecommenderLab. The results 
 the SVD model gave the lowest RMSE, thus was the most accurate to predict the Anime rating. We
 explored the cross validation technique and included an example of our recommender for a user.
 
+The report, "Pongpiriyakarn_Moontep_Liaowongphuthorn_FinalReport.pdf, contains all the infomation.
 The visulization of the results are showned in the presentation, "Math189FinalPresentation.pptx".
